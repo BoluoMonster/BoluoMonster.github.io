@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
 I am currently a PhD student at Shanghai Jiao Tong University (SJTU), focusing on advancing the field of autonomous driving. My research aims to address the critical issue of uncertainty in autonomous driving. By integrating learning and planning methods, I strive to develop robust solutions that enhance the safety and efficiency of autonomous systems.
 
 ## Research Interests
